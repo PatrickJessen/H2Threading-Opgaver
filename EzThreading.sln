@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzThreading", "EzThreading\EzThreading.csproj", "{09D7DB45-563C-415F-BB46-2F53CCE2E256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D7DB45-563C-415F-BB46-2F53CCE2E256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D7DB45-563C-415F-BB46-2F53CCE2E256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D7DB45-563C-415F-BB46-2F53CCE2E256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D7DB45-563C-415F-BB46-2F53CCE2E256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A2DA7AA-D540-4D44-A1D8-C90986CF1E33}
+	EndGlobalSection
+EndGlobal
